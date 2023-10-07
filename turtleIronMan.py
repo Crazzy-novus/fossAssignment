@@ -4,6 +4,8 @@ import turtle
 # Newly added command line after pushing the code into the github 
 # Next the command added program is pulled and ope in locally
 
+# Next the code is pushed into new branched by creating new branch
+
 turtle.bgcolor(0.6,0.5,0.5)
 turtle.penup()
 turtle.goto(-100,-30)
